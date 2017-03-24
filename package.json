@@ -1,0 +1,12 @@
+{
+  "name": "ajaxchimp",
+  "version": "1.0.0",
+  "description": "Sid Doshi's ajaxchimp.js",
+  "keywords": [ "sdoshi", "ajaxchimp" ],
+  "homepage": "http://github.com/professorzumbi/ajaxchimp",
+  "repository": { "type": "git",
+                  "url": "https://github.com/professorzumbi/ajaxchimp"
+                },
+  "license": "MIT",
+  "main": "./ajaxchimp.js"
+}
