@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Sid Doshi's ajaxchimp.js",
   "keywords": [ "sdoshi", "ajaxchimp" ],
-  "homepage": "http://github.com/professorzumbi/ajaxchimp",
+  "homepage": "http://github.com/quilombola/ajaxchimp",
   "repository": { "type": "git",
-                  "url": "https://github.com/professorzumbi/ajaxchimp"
+                  "url": "https://github.com/quilombola/ajaxchimp"
                 },
   "license": "MIT",
   "main": "./ajaxchimp.js"
